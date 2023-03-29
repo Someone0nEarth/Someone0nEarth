@@ -8,7 +8,7 @@
 
 **Technical mother tongue** Java
 
-**Secondary languages** Ruby, PHP, BASH and others
+**Secondary languages** GO, Ruby, PHP, BASH and others
 
 **IRL languages** German & English
 
