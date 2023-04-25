@@ -4,7 +4,7 @@
 
 **Paradigms** Agile. Clean Code & Design. Refactoring. TDD. DevOps
 
-**Motto** Code is for humans
+**Motto** Code is written for humans
 
 **Technical mother tongue** Java
 
