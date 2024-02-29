@@ -1,21 +1,22 @@
 ### Hello!
 
-**Software developer** Professional hands-on for over 10 years. Since 2015 as a hobby only
+**IRL Name** Nils
+
+**"Starbucks Name"** Niles
+
+**Software Developer** Professional hands-on for over 10 years. More backend than frontend. Since 2015 more on a hobby level
 
 **Paradigms** Agile. Clean Code & Design. Refactoring. TDD. DevOps
 
-**Motto** Code is written for humans
+**Motto** Code is written for humans to controll semiotic machines
 
-**Technical mother tongue** Java
+**Technical Mother Tongue** Java
 
-**Secondary languages** GO, Ruby, PHP, BASH and others
+**Other Languages** GO, Ruby, PHP, BASH ...
 
-**IRL languages** German & English
+**IRL Languages** German & English
 
-Linux is my home.
-
-Opensource ftw.
-
+**OS Home** Linux
 
 *Have fun!*
 
