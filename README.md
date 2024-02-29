@@ -2,7 +2,7 @@
 
 **IRL Name** Nils
 
-**"Starbucks Name"** Niles
+**Starbucks Name** Niles
 
 **Software Developer** Professional hands-on for over 10 years. More backend than frontend. Since 2015 more on a hobby level
 
