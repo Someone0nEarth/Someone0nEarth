@@ -1,12 +1,12 @@
 ### Hey!
 
 ***`Software Developer`***
-`Professional hands-on > 10 years` . 
-`Backend > frontent` . 
+`Professional hands-on > 10 years` + 
+`Backend > frontent` + 
 `Since 2015 more on a hobby level`
 
 ***`Dev Paradigms`***
-`Agile` . `Clean Code & Design` . `Refactoring` . `Testing` . `DevOps`
+`Agile` + `Clean Code & Design` + `Refactoring` + `Testing` + `DevOps`
 
 ***`Coding Philosophy`***
 `Code is for controlling semiotic machines and written for semiotic living beings`
@@ -15,10 +15,10 @@
 `Java`
 
 ***`Other Languages`***
-`GO` . `Ruby` . `PHP` . `BASH` . `...`
+`GO` + `Ruby` + `PHP` + `BASH` + `...`
 
 ***`IRL Languages`***
-`German` . `English`
+`German` + `English`
 
 ***`OS Home`***
 `Linux`
