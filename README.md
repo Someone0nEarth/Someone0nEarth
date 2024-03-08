@@ -1,22 +1,42 @@
-### Hello!
+#### Hello!
 
-**IRL Name** Nils
+##### Software Developer
 
-**Starbucks Name** Niles
+`Professional hands-on for over 10 years`
+`More backend than frontent`
+`Since 2015 more on a hobby level`
 
-**Software Developer** Professional hands-on for over 10 years. More backend than frontend. Since 2015 more on a hobby level
+##### Paradigms 
 
-**Paradigms** Agile. Clean Code & Design. Refactoring. Testing. DevOps
+`Agile` `Clean Code & Design` `Refactoring` `Testing` `DevOps`
 
-**Motto** Code is for controlling semiotic machines and written for humans
+##### Motto
 
-**Technical Mother Tongue** Java
+`Code is for controlling semiotic machines and written for humans`
 
-**Other Languages** GO, Ruby, PHP, BASH ...
+##### Technical Mother Tongue
 
-**IRL Languages** German & English
+`Java`
 
-**OS Home** Linux
+##### Other Languages
+
+`GO` `Ruby` `PHP` `BASH` `...`
+
+##### IRL Languages
+
+`German` `English`
+
+##### OS Home
+
+`Linux`
+
+##### IRL Name
+
+`Nils`
+
+##### Starbucks Name
+
+`Niles`
 
 *Have fun!*
 
