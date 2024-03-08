@@ -5,10 +5,10 @@
 `backend > frontent`
 `Since 2015 more on a hobby level`
 
-**Paradigms**
+**Dev Paradigms**
 `Agile` `Clean Code & Design` `Refactoring` `Testing` `DevOps`
 
-**Motto**
+**Coding Philosophy**
 `Code is for controlling semiotic machines and written for humans`
 
 **Technical Mother Tongue**
