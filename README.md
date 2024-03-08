@@ -9,7 +9,7 @@
 `Agile` `Clean Code & Design` `Refactoring` `Testing` `DevOps`
 
 ***`Coding Philosophy`***
-`Code is for controlling semiotic machines and written for humans`
+`Code is for controlling semiotic machines and written for semiotic beings`
 
 ***`Technical Mother Tongue`***
 `Java`
