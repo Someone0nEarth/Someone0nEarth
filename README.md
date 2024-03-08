@@ -1,4 +1,4 @@
-### Hello!
+### Hey!
 
 ***`Software Developer`***
 `Professional hands-on > 10 years`
