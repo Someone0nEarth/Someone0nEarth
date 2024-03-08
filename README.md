@@ -1,41 +1,32 @@
 #### Hello!
 
-##### Software Developer
-
-`Professional hands-on for over 10 years`
-`More backend than frontent`
+**Software Developer**
+`Professional hands-on > 10 years`
+`backend > frontent`
 `Since 2015 more on a hobby level`
 
-##### Paradigms 
-
+**Paradigms**
 `Agile` `Clean Code & Design` `Refactoring` `Testing` `DevOps`
 
-##### Motto
-
+**Motto**
 `Code is for controlling semiotic machines and written for humans`
 
-##### Technical Mother Tongue
-
+**Technical Mother Tongue**
 `Java`
 
-##### Other Languages
-
+**Other Languages**
 `GO` `Ruby` `PHP` `BASH` `...`
 
-##### IRL Languages
-
+**IRL Languages**
 `German` `English`
 
-##### OS Home
-
+**OS Home**
 `Linux`
 
-##### IRL Name
-
+**IRL Name**
 `Nils`
 
-##### Starbucks Name
-
+**Starbucks Name**
 `Niles`
 
 *Have fun!*
