@@ -1,32 +1,32 @@
 ### Hey!
 
-***Software Developer*****:** 
+***Software Developer*** 
 `Professional hands-on > 10 years` + 
 `Backend > frontent` + 
 `Since 2015 more on a hobby level`
 
-***Dev Paradigms*****:** 
+***Dev Paradigms*** 
 `Agile` + `Clean Code & Design` + `Refactoring` + `Testing` + `DevOps`
 
-***Coding Philosophy*****:** 
+***Coding Philosophy*** 
 `Code is for controlling semiotic machines and written for semiotic living beings`
 
-***Technical Mother Tongue*****:** 
+***Technical Mother Tongue*** 
 `Java`
 
-***Other Languages*****:** 
+***Other Languages*** 
 `GO` + `Ruby` + `PHP` + `BASH` + `...`
 
-***IRL Languages*****:** 
+***IRL Languages*** 
 `German` + `English`
 
-***OS Home*****:** 
+***OS Home*** 
 `Linux`
 
-***IRL Name*****:** 
+***IRL Name*** 
 `Nils`
 
-***Starbucks Name*****:** 
+***Starbucks Name*** 
 `Niles`
 
 #### *Have fun!*
