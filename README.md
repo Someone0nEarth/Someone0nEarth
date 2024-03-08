@@ -2,7 +2,7 @@
 
 ***`Software Developer`***
 `Professional hands-on > 10 years`
-`backend > frontent`
+`Backend > frontent`
 `Since 2015 more on a hobby level`
 
 ***`Dev Paradigms`***
