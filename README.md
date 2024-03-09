@@ -1,5 +1,5 @@
 ### Hey!
-| k | v |
+| *key* | *value* |
 | ------|------ |
 | ***Software Developer*** | `Professional hands-on > 10 years` + `Backend > frontent` + `Since 2015 more on a hobby level` |
 | ***Dev Paradigms*** | `Agile` + `Clean Code & Design` + `Refactoring` + `Testing` + `DevOps` |
