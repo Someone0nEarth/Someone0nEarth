@@ -1,4 +1,5 @@
 ### Hey!
+
 | *key* | *value* |
 | ------|------ |
 | ***Software Developer*** | `Professional hands-on > 10 years` + `Backend > frontent` + `Since 2015 more on a hobby level` |
@@ -11,7 +12,7 @@
 | ***IRL Name*** | `Nils` |
 | ***Starbucks Name*** | `Niles` |
 
-#### *Have fun!*
+***Have fun!***
 
 someone.earth
 
