@@ -8,8 +8,7 @@
 | ***Technical Languages*** | `Java ("Mother Tongue")` + `GO` + `Rust` + `Ruby` + `PHP` + `BASH` + `...`|
 | ***IRL Languages*** | `German` + `English` |
 | ***OS Home*** | `Linux` + `Gnome`|
-| ***IRL Name*** | `Nils` |
-| ***"Starbucks Name"*** | `Niles` |
+| ***IRL Name*** | `Nils` `("Starbucks Name" is Niles)`|
 
 ***Have fun!***
 
