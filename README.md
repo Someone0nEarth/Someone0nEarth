@@ -10,7 +10,7 @@
 | ***IRL Languages*** | `German` + `English` |
 | ***OS Home*** | `Linux` |
 | ***IRL Name*** | `Nils` |
-| ***Starbucks Name*** | `Niles` |
+| ***"Starbucks Name"*** | `Niles` |
 
 ***Have fun!***
 
